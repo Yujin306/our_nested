@@ -1,0 +1,4 @@
+Total parameters count 9351187
+Writing Tensorboard logs to  ./runs/test
+0 Thu Jul  3 01:25:42 2025 Epoch: 0
+🔍 Model is on: cuda:0
